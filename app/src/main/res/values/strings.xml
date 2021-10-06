@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hyper-OneTask-RomanyWageed</string>
+    <string name="video_name">Name :</string>
+    <string name="video_type">Type :</string>
+    <string name="image_download">imagedownload</string>
+    <string name="no_data_found">NoDataFound</string>
+    <string name="no_video">VideoNot Found</string>
+    <string name="image_placeHolder">placeHolder</string>
+</resources>
